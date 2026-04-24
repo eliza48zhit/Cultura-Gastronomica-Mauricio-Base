@@ -32,4 +32,4 @@ Uso de Leguminosas: true
 
 🐈 Nota de Autoría
 
-🐈 Nota del Gato Builder: Registro #49 sellado. En Mauricio, el código es tan flexible como el Dholl Puri y tan equilibrado como un buen Biryani. He blindado el sistema para que la extensibilidad de la masa sea el parámetro crítico de este bloque. ¡Port Louis ya es un nodo activo en la arquitectura de Base! 🐾
+🐈 Nota del Gato Builder: Registro #49 sellado. En Mauricio, el código es tan flexible como el Dholl Puri y tan equilibrado como un buen Biryani. He blindado el sistema para que la extensibilidad de la masa sea el parámetro crítico de este bloque. ¡Port Louis ya es un nodo activo en la arquitectura de Base! 🐾  
